@@ -20,7 +20,7 @@
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
-		display: block;
+		display: block; #one #two #three {display:none}
 	}
 
 	body {
